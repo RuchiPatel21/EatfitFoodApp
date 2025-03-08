@@ -1,0 +1,14 @@
+ /* .shine{
+    animation-name: example;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+ }
+ @keyframes example {
+    0%   {background: linear-gradient(to right, #F2F2F2, #EAEAEA, #EAEAEA, #EAEAEA);}
+    25%  {background: linear-gradient(to right, #EAEAEA, #F2F2F2, #EAEAEA, #EAEAEA);}
+    50%  {background: linear-gradient(to right, #EAEAEA, #DBDBDB, #F2F2F2, #EAEAEA);}
+    100% {background: linear-gradient(to right, #EAEAEA, #DBDBDB, #EAEAEA, #F2F2F2);}
+  }
+ */
+
+/* background: linear-gradient(to right, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996);  */
